@@ -1,1 +1,1 @@
-# Interactive-Graphics-hw1
+## Interactive Graphics HW1 2019 - Cube
